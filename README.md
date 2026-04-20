@@ -81,4 +81,4 @@ A third-year Computer Science and Technology student at [LJ Institute of Enginee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehetgohil0305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehetgohil&label=Profile%20views&color=38a9ff&style=flat" alt="thehetgohil0305" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehetgohil0305&label=Profile%20views&color=38a9ff&style=flat" alt="thehetgohil0305" /> </p>
